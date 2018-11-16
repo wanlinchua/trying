@@ -136,8 +136,8 @@
                 <version>3.3.4</version>
                 <configuration>
                     <suppressionFiles>
-                        <suppressionFile>https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.2.xsd</suppressionFile>
-                        <suppressionFile>dependency-suppression.1.2.xsd</suppressionFile>
+                        <suppressionFile>https://github.com/wanlinchua/trying/suppress.xml</suppressionFile>
+                        <suppressionFile>suppress.xml</suppressionFile>
                     </suppressionFiles>
                 </configuration>
                 <executions>
